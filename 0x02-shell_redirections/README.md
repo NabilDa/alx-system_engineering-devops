@@ -1,0 +1,1 @@
+Here, I will be creating some projects to learn how to play with Inputs and Outputs (I/O) in bash.
