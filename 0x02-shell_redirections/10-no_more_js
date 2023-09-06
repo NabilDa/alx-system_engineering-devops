@@ -1,2 +1,2 @@
 #!/bin/bash
-find | tr "\n" " " | rm -f
+find . -name *.js -type f -delete
